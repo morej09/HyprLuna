@@ -120,4 +120,9 @@
 <img src="https://img.shields.io/badge/Powered%20by-Lunaris--Team-89DCEB?style=for-the-badge&labelColor=1E1E2E" alt="Powered by Lunaris-Project Team"/>
 </p>
 <p><i>🌙 Stars light up the night sky, but the moon illuminates the path 🌙</i></p>
+<h3>Credits:</h3>
+- thanks to end4 for basing hyprluna on his work.
+- thanks to AhmedSaadi i inspired alot of islamic stuff from him.
+- wallpapers credits to its owners
+- thanks to HyDE Project for taking some animations from them.
 </div>
