@@ -124,5 +124,5 @@
 ### - Special thanks to [@end-4](https://github.com/end-4/), for his awesome work on [dots-hyprland](https://github.com/end-4/dots-hyprland)
 ### - Huge thanks to [@AhmedSaadi0](https://github.com/AhmedSaadi0) for his awesome work [my-hyprland-config](https://github.com/AhmedSaadi0/my-hyprland-config)
 ### - Huge shout out to [HyDE](https://github.com/Hyde-project/hyde) for their awesome work in hyprland configurations.
-#### Without These Awesome Ricer's Hyprluna Wouldn't have been possible. As most dots are derived and inspired from these.
+#### Without These Awesome Ricer's Hyprluna Wouldn't have been possible. As most components of the dots are derived and inspired from these.
 </div>
